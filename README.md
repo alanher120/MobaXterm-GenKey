@@ -4,6 +4,7 @@
 ## 本地启动
 需要安装Python3!!!
 ```
+apt-get install python3 python3-pip
 pip install --no-cache-dir -r requirements.txt
 python app.py
 ```
