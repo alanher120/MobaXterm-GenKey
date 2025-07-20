@@ -6,7 +6,6 @@
 ```
 apt-get install python3 python3-pip
 pip install --no-cache-dir -r requirements.txt
-pip install flask --upgrade
 python app.py
 ```
 
